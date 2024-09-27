@@ -1,0 +1,39 @@
+header{
+    padding: 2px;
+    position: fixed;
+    top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it stays above other content */
+}
+.side{
+    list-style-type: none;
+    text-decoration: none;
+}
+.bar{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.bar1{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.bar2{
+    margin-top: 360px;
+    margin-left: 20px;
+}.bar2{
+    margin-top: 360px;
+    margin-left: 20px;
+}
+.pos{
+    text-decoration: none;
+}
+.sidebar{
+    position: fixed;
+    background-color: #292828;
+    height: 100%;
+    width: 223px;
+}
+body{
+    background-color: #48505E;
+}
